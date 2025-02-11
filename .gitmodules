@@ -5,4 +5,4 @@
 [submodule "doestyle"]
 	path = doestyle
 	url = https://github.com/nsw-education/doestyle
-	branch = *release
+	branch = v0.2.2
