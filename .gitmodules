@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/nsw-education/nsw-education.r-universe.dev
 	branch = HEAD
+[submodule "doestyle"]
+	path = doestyle
+	url = https://github.com/nsw-education/doestyle
+	branch = *release
